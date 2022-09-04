@@ -6,6 +6,7 @@
 ### 2.  Fostering Protection of National Information Infrastructures
 ![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp3.png)
 ### 3.  Enhancing Cybersecurity Incident Management
-![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp3.png)
+![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp4.png)
 ### 4. Strengthening Legal and Regulatory Framework
-![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp3.png)
+![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp5_1.png)
+![Alt Text](https://github.com/passwordng/ngcyberstrategy/blob/main/res/ncsp5_2.png)
